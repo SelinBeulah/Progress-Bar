@@ -1,0 +1,14 @@
+.main-container{
+    width: 400px;
+    height: 30px;
+    border: 1px #ccc solid;
+    border-radius: 50px;
+    overflow: hidden;
+}
+
+.progress-bar {
+    height: 100%;
+    width: 100%;
+    background-color: thistle;
+    /* transform: translateX(-25%); */
+}
